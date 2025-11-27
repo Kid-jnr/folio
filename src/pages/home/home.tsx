@@ -18,9 +18,7 @@ export default function Home() {
               <span className="highlight">Forge</span>
             </h1>
           </div>
-
           <GameOfLife />
-
         </div>
 
         <div className="first-content-heading" id="introduction">Who Am I?</div>
@@ -88,7 +86,9 @@ export default function Home() {
           </div>
         </div>
 
-        <Mylearning items={learning_data} />
+        <div className="my-learning" id="what-i-am-learning">
+          <Mylearning items={learning_data} />
+        </div>
 
         <div className="my-working" id="what-i-am-doing">
           <div className="content-heading">What I'm doing:</div>
@@ -105,7 +105,10 @@ export default function Home() {
           </div>
         </div>
 
-        <Contact />
+        <div className="contact" id="contact-me">
+          <Contact />
+        </div>
+
       </div>
     </>
   );

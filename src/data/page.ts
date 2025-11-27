@@ -3,7 +3,7 @@ const on_this_page = [
         page: "home",
         sections: [
             {
-                section_name : "Game of life",
+                section_name: "Game of life",
             },
             {
                 section_name: "Introduction",
@@ -15,8 +15,14 @@ const on_this_page = [
                 section_name: "My education",
             },
             {
+                section_name: "What I am learning",
+            },
+            {
                 section_name: "What I am doing"
-            }
+            },
+            {
+                section_name: "Contact me",
+            },
         ]
     }
 ]
