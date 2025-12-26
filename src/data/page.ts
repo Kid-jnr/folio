@@ -24,6 +24,17 @@ const on_this_page = [
                 section_name: "Contact me",
             },
         ]
+    },
+    {
+        page: "projects",
+        sections: [
+            { 
+                section_name: "about my projects", 
+            },
+            { 
+                section_name: "my git repos", 
+            },
+        ]
     }
 ]
 
