@@ -1,7 +1,3 @@
-{/*
-This is the main page which is responsible for the working of my website
-*/}
-
 import "./App.css";
 import { useState } from "react";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";

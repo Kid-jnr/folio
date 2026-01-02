@@ -35,6 +35,23 @@ const on_this_page = [
                 section_name: "my git repos", 
             },
         ]
+    },
+    {
+        page: "learning",
+        sections: [
+            {
+                section_name: "learning section",
+            },
+            {
+                section_name: "coding platforms",
+            },
+            {
+                section_name: "git repositories",
+            },
+            {
+                section_name: "youtube videos",
+            }
+        ]
     }
 ]
 
