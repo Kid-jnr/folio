@@ -58,6 +58,10 @@ const quotes = [
   {
     id: 15,
     quote: "Every moment is a fresh beginning."
+  },
+  {
+    id: 16,
+    quote: "In the middle of difficulty lies opportunity."
   }
 ]
 
