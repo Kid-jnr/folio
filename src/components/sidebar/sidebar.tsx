@@ -72,7 +72,6 @@ export default function Sidebar({
           <div className="right-side-title-small">
             On This Page
           </div>
-          {/* <hr className="side-hr" /> */}
 
           <div className="side-sections">
             <ul>

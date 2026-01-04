@@ -8,7 +8,7 @@ export default function Learning() {
     <>
       <div className="l-main">
         <div className="l-intro">
-          <div className="l-heading">Learning Section...</div>
+          <div className="l-heading" id="learning-section" >Learning Section...</div>
           <div className="l-content">
             Welcome to the learning section of my website...
             <br /> <br />
@@ -26,7 +26,7 @@ export default function Learning() {
         </div>
 
         <div className="l-cplats">
-          <div className="l-heading">
+          <div className="l-heading" id="coding-platforms">
             Some really good coding platforms to practice your coding skills
           </div>
           <div className="l-content">
@@ -91,7 +91,7 @@ export default function Learning() {
         </div>
 
         <div className="l-gitreps">
-          <div className="l-heading">
+          <div className="l-heading" id="git-repositories">
             Some good git repositories to learn new things
           </div>
           <div className="l-content">
@@ -109,7 +109,7 @@ export default function Learning() {
         </div>
         
         <div className="l-y-vids">
-          <div className="l-heading">
+          <div className="l-heading" id="youtube-videos">
             Some Good Youtube Videos to Learn From
           </div>
           <div className="l-content">
